@@ -14,4 +14,4 @@
 -->
 
 # 🌱 skills
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,bash,docker,git,go,py,powershell,linux,mysql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,bash,docker,git,ts,go,py,powershell,linux,mysql,postman)](https://skillicons.dev)
