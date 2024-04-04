@@ -14,7 +14,7 @@
 -->
 
 # 🌱 skills
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git,github,dotnet,cs,ts,js,nodejs,nuxtjs,nextjs,nuxtjs,go,py,powershell,bash,md,terraform,linux,redhat,ubuntu,windows,mysql,postgres,postman,grafana,elasticsearch,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git,github,dotnet,cs,ts,js,nodejs,nextjs,nuxtjs,go,py,powershell,bash,md,terraform,linux,redhat,ubuntu,windows,mysql,postgres,postman,grafana,elasticsearch,visualstudio,vscode)](https://skillicons.dev)
 
 # 😄 Certified 
 
