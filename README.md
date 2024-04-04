@@ -1,6 +1,9 @@
-# Site Reliability Engineer in Japan 👋
-I'm engineering with the atmosphere 😄
+# Hi there 👋
+A.K.A Space☆Dandy
 
+Space☆Dandy is a space dandy. And he is an alien hunter. 
+
+On the side, I work as a site reliability engineer. 🌎
 
 <!--
 **mg6mg/mg6mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
